@@ -10,7 +10,7 @@ npm install type-machine
 
 ```
 import React form 'react'
-import TypeMachine from './components/TypeMachine'
+import TypeMachine from 'type-machine'
 
 class Demo extends React.Component {
   render () {
