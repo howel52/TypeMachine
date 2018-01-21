@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import TypeLine from '../TypeLine'
+import TypeLine from './components/TypeLine'
 class TypeMachine extends React.Component{
   constructor(props) {
     super(props)
